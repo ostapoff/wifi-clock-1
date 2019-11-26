@@ -15,7 +15,7 @@ ESP-8266 supports WiFi allowing the clock to syncronize via NTP.
 
 ## electronic circuit
 
-![scheme](./assets/clock_schematic?raw=true)
+![scheme](./assets/clock_schematic.png?raw=true)
 
 ## PCB layout
 
